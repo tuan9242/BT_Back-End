@@ -1,0 +1,14 @@
+D:\BT C#\Lab 1.3\Bài 18\bin\Debug\net8.0\Bài 18.exe
+D:\BT C#\Lab 1.3\Bài 18\bin\Debug\net8.0\Bài 18.deps.json
+D:\BT C#\Lab 1.3\Bài 18\bin\Debug\net8.0\Bài 18.runtimeconfig.json
+D:\BT C#\Lab 1.3\Bài 18\bin\Debug\net8.0\Bài 18.dll
+D:\BT C#\Lab 1.3\Bài 18\bin\Debug\net8.0\Bài 18.pdb
+D:\BT C#\Lab 1.3\Bài 18\obj\Debug\net8.0\Bài 18.GeneratedMSBuildEditorConfig.editorconfig
+D:\BT C#\Lab 1.3\Bài 18\obj\Debug\net8.0\Bài 18.AssemblyInfoInputs.cache
+D:\BT C#\Lab 1.3\Bài 18\obj\Debug\net8.0\Bài 18.AssemblyInfo.cs
+D:\BT C#\Lab 1.3\Bài 18\obj\Debug\net8.0\Bài 18.csproj.CoreCompileInputs.cache
+D:\BT C#\Lab 1.3\Bài 18\obj\Debug\net8.0\Bài 18.dll
+D:\BT C#\Lab 1.3\Bài 18\obj\Debug\net8.0\refint\Bài 18.dll
+D:\BT C#\Lab 1.3\Bài 18\obj\Debug\net8.0\Bài 18.pdb
+D:\BT C#\Lab 1.3\Bài 18\obj\Debug\net8.0\Bài 18.genruntimeconfig.cache
+D:\BT C#\Lab 1.3\Bài 18\obj\Debug\net8.0\ref\Bài 18.dll

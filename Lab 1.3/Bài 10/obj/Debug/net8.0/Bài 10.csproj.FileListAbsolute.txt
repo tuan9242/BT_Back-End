@@ -1,0 +1,14 @@
+D:\BT C#\Lab 1.3\Bài 10\obj\Debug\net8.0\Bài 10.GeneratedMSBuildEditorConfig.editorconfig
+D:\BT C#\Lab 1.3\Bài 10\obj\Debug\net8.0\Bài 10.AssemblyInfoInputs.cache
+D:\BT C#\Lab 1.3\Bài 10\obj\Debug\net8.0\Bài 10.AssemblyInfo.cs
+D:\BT C#\Lab 1.3\Bài 10\obj\Debug\net8.0\Bài 10.csproj.CoreCompileInputs.cache
+D:\BT C#\Lab 1.3\Bài 10\bin\Debug\net8.0\Bài 10.exe
+D:\BT C#\Lab 1.3\Bài 10\bin\Debug\net8.0\Bài 10.deps.json
+D:\BT C#\Lab 1.3\Bài 10\bin\Debug\net8.0\Bài 10.runtimeconfig.json
+D:\BT C#\Lab 1.3\Bài 10\bin\Debug\net8.0\Bài 10.dll
+D:\BT C#\Lab 1.3\Bài 10\bin\Debug\net8.0\Bài 10.pdb
+D:\BT C#\Lab 1.3\Bài 10\obj\Debug\net8.0\Bài 10.dll
+D:\BT C#\Lab 1.3\Bài 10\obj\Debug\net8.0\refint\Bài 10.dll
+D:\BT C#\Lab 1.3\Bài 10\obj\Debug\net8.0\Bài 10.pdb
+D:\BT C#\Lab 1.3\Bài 10\obj\Debug\net8.0\Bài 10.genruntimeconfig.cache
+D:\BT C#\Lab 1.3\Bài 10\obj\Debug\net8.0\ref\Bài 10.dll

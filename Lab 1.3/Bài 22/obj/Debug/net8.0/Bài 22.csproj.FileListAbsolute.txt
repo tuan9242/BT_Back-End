@@ -1,0 +1,14 @@
+D:\BT C#\Lab 1.3\Bài 22\bin\Debug\net8.0\Bài 22.exe
+D:\BT C#\Lab 1.3\Bài 22\bin\Debug\net8.0\Bài 22.deps.json
+D:\BT C#\Lab 1.3\Bài 22\bin\Debug\net8.0\Bài 22.runtimeconfig.json
+D:\BT C#\Lab 1.3\Bài 22\bin\Debug\net8.0\Bài 22.dll
+D:\BT C#\Lab 1.3\Bài 22\bin\Debug\net8.0\Bài 22.pdb
+D:\BT C#\Lab 1.3\Bài 22\obj\Debug\net8.0\Bài 22.GeneratedMSBuildEditorConfig.editorconfig
+D:\BT C#\Lab 1.3\Bài 22\obj\Debug\net8.0\Bài 22.AssemblyInfoInputs.cache
+D:\BT C#\Lab 1.3\Bài 22\obj\Debug\net8.0\Bài 22.AssemblyInfo.cs
+D:\BT C#\Lab 1.3\Bài 22\obj\Debug\net8.0\Bài 22.csproj.CoreCompileInputs.cache
+D:\BT C#\Lab 1.3\Bài 22\obj\Debug\net8.0\Bài 22.dll
+D:\BT C#\Lab 1.3\Bài 22\obj\Debug\net8.0\refint\Bài 22.dll
+D:\BT C#\Lab 1.3\Bài 22\obj\Debug\net8.0\Bài 22.pdb
+D:\BT C#\Lab 1.3\Bài 22\obj\Debug\net8.0\Bài 22.genruntimeconfig.cache
+D:\BT C#\Lab 1.3\Bài 22\obj\Debug\net8.0\ref\Bài 22.dll
