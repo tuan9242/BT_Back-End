@@ -1,0 +1,14 @@
+E:\Back-End\bai3.c#\bai3.c#\bin\Debug\net8.0\bai3.c#.exe
+E:\Back-End\bai3.c#\bai3.c#\bin\Debug\net8.0\bai3.c#.deps.json
+E:\Back-End\bai3.c#\bai3.c#\bin\Debug\net8.0\bai3.c#.runtimeconfig.json
+E:\Back-End\bai3.c#\bai3.c#\bin\Debug\net8.0\bai3.c#.dll
+E:\Back-End\bai3.c#\bai3.c#\bin\Debug\net8.0\bai3.c#.pdb
+E:\Back-End\bai3.c#\bai3.c#\obj\Debug\net8.0\bai3.c#.GeneratedMSBuildEditorConfig.editorconfig
+E:\Back-End\bai3.c#\bai3.c#\obj\Debug\net8.0\bai3.c#.AssemblyInfoInputs.cache
+E:\Back-End\bai3.c#\bai3.c#\obj\Debug\net8.0\bai3.c#.AssemblyInfo.cs
+E:\Back-End\bai3.c#\bai3.c#\obj\Debug\net8.0\bai3.c#.csproj.CoreCompileInputs.cache
+E:\Back-End\bai3.c#\bai3.c#\obj\Debug\net8.0\bai3.c#.dll
+E:\Back-End\bai3.c#\bai3.c#\obj\Debug\net8.0\refint\bai3.c#.dll
+E:\Back-End\bai3.c#\bai3.c#\obj\Debug\net8.0\bai3.c#.pdb
+E:\Back-End\bai3.c#\bai3.c#\obj\Debug\net8.0\bai3.c#.genruntimeconfig.cache
+E:\Back-End\bai3.c#\bai3.c#\obj\Debug\net8.0\ref\bai3.c#.dll

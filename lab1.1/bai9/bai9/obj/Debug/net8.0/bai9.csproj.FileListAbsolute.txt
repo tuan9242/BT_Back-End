@@ -1,0 +1,14 @@
+E:\Back-End\bai9\bai9\bin\Debug\net8.0\bai9.exe
+E:\Back-End\bai9\bai9\bin\Debug\net8.0\bai9.deps.json
+E:\Back-End\bai9\bai9\bin\Debug\net8.0\bai9.runtimeconfig.json
+E:\Back-End\bai9\bai9\bin\Debug\net8.0\bai9.dll
+E:\Back-End\bai9\bai9\bin\Debug\net8.0\bai9.pdb
+E:\Back-End\bai9\bai9\obj\Debug\net8.0\bai9.GeneratedMSBuildEditorConfig.editorconfig
+E:\Back-End\bai9\bai9\obj\Debug\net8.0\bai9.AssemblyInfoInputs.cache
+E:\Back-End\bai9\bai9\obj\Debug\net8.0\bai9.AssemblyInfo.cs
+E:\Back-End\bai9\bai9\obj\Debug\net8.0\bai9.csproj.CoreCompileInputs.cache
+E:\Back-End\bai9\bai9\obj\Debug\net8.0\bai9.dll
+E:\Back-End\bai9\bai9\obj\Debug\net8.0\refint\bai9.dll
+E:\Back-End\bai9\bai9\obj\Debug\net8.0\bai9.pdb
+E:\Back-End\bai9\bai9\obj\Debug\net8.0\bai9.genruntimeconfig.cache
+E:\Back-End\bai9\bai9\obj\Debug\net8.0\ref\bai9.dll

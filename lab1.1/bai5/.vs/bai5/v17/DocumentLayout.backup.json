@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Back-End\\bai5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6AD94A8-B7A7-4000-880D-2E5AEABAB7CF}|bai5\\bai5.csproj|e:\\back-end\\bai5\\bai5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6AD94A8-B7A7-4000-880D-2E5AEABAB7CF}|bai5\\bai5.csproj|solutionrelative:bai5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Back-End\\bai5\\bai5\\Program.cs",
+              "RelativeDocumentMoniker": "bai5\\Program.cs",
+              "ToolTip": "E:\\Back-End\\bai5\\bai5\\Program.cs*",
+              "RelativeToolTip": "bai5\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T11:25:03.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
