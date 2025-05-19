@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BT C#\\Lab3\\Lab3\\Lab3.csproj": {}
+    "C:\\Users\\ADMIN\\source\\repos\\BT_Back-End\\Lab3\\Lab3\\Lab3.csproj": {}
   },
   "projects": {
-    "D:\\BT C#\\Lab3\\Lab3\\Lab3.csproj": {
+    "C:\\Users\\ADMIN\\source\\repos\\BT_Back-End\\Lab3\\Lab3\\Lab3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BT C#\\Lab3\\Lab3\\Lab3.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\BT_Back-End\\Lab3\\Lab3\\Lab3.csproj",
         "projectName": "Lab3",
-        "projectPath": "D:\\BT C#\\Lab3\\Lab3\\Lab3.csproj",
-        "packagesPath": "C:\\Users\\Nguyen Thi Bich Ngoc\\.nuget\\packages\\",
-        "outputPath": "D:\\BT C#\\Lab3\\Lab3\\obj\\",
+        "projectPath": "C:\\Users\\ADMIN\\source\\repos\\BT_Back-End\\Lab3\\Lab3\\Lab3.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\source\\repos\\BT_Back-End\\Lab3\\Lab3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Nguyen Thi Bich Ngoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

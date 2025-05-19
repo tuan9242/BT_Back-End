@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\Zalo Temp\\b5b084ed6c45d5106c57db747c07c5e6~\\lab1.1\\bai1\\bai1\\bai1.cs.csproj": {}
+    "C:\\Users\\ADMIN\\source\\repos\\BT_Back-End\\lab1.1\\bai1\\bai1\\bai1.cs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\Zalo Temp\\b5b084ed6c45d5106c57db747c07c5e6~\\lab1.1\\bai1\\bai1\\bai1.cs.csproj": {
+    "C:\\Users\\ADMIN\\source\\repos\\BT_Back-End\\lab1.1\\bai1\\bai1\\bai1.cs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\Zalo Temp\\b5b084ed6c45d5106c57db747c07c5e6~\\lab1.1\\bai1\\bai1\\bai1.cs.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\BT_Back-End\\lab1.1\\bai1\\bai1\\bai1.cs.csproj",
         "projectName": "bai1.cs",
-        "projectPath": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\Zalo Temp\\b5b084ed6c45d5106c57db747c07c5e6~\\lab1.1\\bai1\\bai1\\bai1.cs.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\source\\repos\\BT_Back-End\\lab1.1\\bai1\\bai1\\bai1.cs.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\Zalo Temp\\b5b084ed6c45d5106c57db747c07c5e6~\\lab1.1\\bai1\\bai1\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\source\\repos\\BT_Back-End\\lab1.1\\bai1\\bai1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
