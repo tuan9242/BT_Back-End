@@ -1,0 +1,14 @@
+﻿@model Lab3.Models.Product  
+@using System.Globalization  
+
+@{  
+ ViewData["Title"] = "Chi tiết sản phẩm";  
+}  
+
+<h2>@ViewData["Title"]</h2>  
+
+<div>    
+<p><strong>Mã sản phẩm:</strong> @Model.Id</p>    
+<p><strong>Tên sản phẩm:</strong> @Model.Name</p>
+<p><strong>Giá:</strong> @string.Format("{0:N0}", Model.Price) VND</p>
+</div>

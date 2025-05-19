@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BT C#\\Lab1.5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0402489D-B051-4B7C-BEBA-40CC9308E013}|Bai2Lab15\\Bai2Lab15.csproj|d:\\bt c#\\lab1.5\\bai2lab15\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0402489D-B051-4B7C-BEBA-40CC9308E013}|Bai2Lab15\\Bai2Lab15.csproj|solutionrelative:bai2lab15\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0402489D-B051-4B7C-BEBA-40CC9308E013}|Bai2Lab15\\Bai2Lab15.csproj|d:\\bt c#\\lab1.5\\bai2lab15\\hinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0402489D-B051-4B7C-BEBA-40CC9308E013}|Bai2Lab15\\Bai2Lab15.csproj|solutionrelative:bai2lab15\\hinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0402489D-B051-4B7C-BEBA-40CC9308E013}|Bai2Lab15\\Bai2Lab15.csproj|d:\\bt c#\\lab1.5\\bai2lab15\\bai2lab15.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0402489D-B051-4B7C-BEBA-40CC9308E013}|Bai2Lab15\\Bai2Lab15.csproj|solutionrelative:bai2lab15\\bai2lab15.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0402489D-B051-4B7C-BEBA-40CC9308E013}|Bai2Lab15\\Bai2Lab15.csproj|d:\\bt c#\\lab1.5\\bai2lab15\\hinhtamgiac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0402489D-B051-4B7C-BEBA-40CC9308E013}|Bai2Lab15\\Bai2Lab15.csproj|solutionrelative:bai2lab15\\hinhtamgiac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0402489D-B051-4B7C-BEBA-40CC9308E013}|Bai2Lab15\\Bai2Lab15.csproj|d:\\bt c#\\lab1.5\\bai2lab15\\hinhchunhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0402489D-B051-4B7C-BEBA-40CC9308E013}|Bai2Lab15\\Bai2Lab15.csproj|solutionrelative:bai2lab15\\hinhchunhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0402489D-B051-4B7C-BEBA-40CC9308E013}|Bai2Lab15\\Bai2Lab15.csproj|d:\\bt c#\\lab1.5\\bai2lab15\\hinhvuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0402489D-B051-4B7C-BEBA-40CC9308E013}|Bai2Lab15\\Bai2Lab15.csproj|solutionrelative:bai2lab15\\hinhvuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0402489D-B051-4B7C-BEBA-40CC9308E013}|Bai2Lab15\\Bai2Lab15.csproj|d:\\bt c#\\lab1.5\\bai2lab15\\hinhtron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0402489D-B051-4B7C-BEBA-40CC9308E013}|Bai2Lab15\\Bai2Lab15.csproj|solutionrelative:bai2lab15\\hinhtron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0402489D-B051-4B7C-BEBA-40CC9308E013}|Bai2Lab15\\Bai2Lab15.csproj|d:\\bt c#\\lab1.5\\bai2lab15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0402489D-B051-4B7C-BEBA-40CC9308E013}|Bai2Lab15\\Bai2Lab15.csproj|solutionrelative:bai2lab15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51DCD86E-1F17-4680-90C1-6068DFBD0510}|Bai1Lab15\\Bai1Lab15.csproj|d:\\bt c#\\lab1.5\\bai1lab15\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51DCD86E-1F17-4680-90C1-6068DFBD0510}|Bai1Lab15\\Bai1Lab15.csproj|solutionrelative:bai1lab15\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51DCD86E-1F17-4680-90C1-6068DFBD0510}|Bai1Lab15\\Bai1Lab15.csproj|d:\\bt c#\\lab1.5\\bai1lab15\\phanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51DCD86E-1F17-4680-90C1-6068DFBD0510}|Bai1Lab15\\Bai1Lab15.csproj|solutionrelative:bai1lab15\\phanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51DCD86E-1F17-4680-90C1-6068DFBD0510}|Bai1Lab15\\Bai1Lab15.csproj|d:\\bt c#\\lab1.5\\bai1lab15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51DCD86E-1F17-4680-90C1-6068DFBD0510}|Bai1Lab15\\Bai1Lab15.csproj|solutionrelative:bai1lab15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bai2Lab15.csproj",
+              "DocumentMoniker": "D:\\BT C#\\Lab1.5\\Bai2Lab15\\Bai2Lab15.csproj",
+              "RelativeDocumentMoniker": "Bai2Lab15\\Bai2Lab15.csproj",
+              "ToolTip": "D:\\BT C#\\Lab1.5\\Bai2Lab15\\Bai2Lab15.csproj",
+              "RelativeToolTip": "Bai2Lab15\\Bai2Lab15.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-21T05:08:32.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cs",
+              "DocumentMoniker": "D:\\BT C#\\Lab1.5\\Bai2Lab15\\main.cs",
+              "RelativeDocumentMoniker": "Bai2Lab15\\main.cs",
+              "ToolTip": "D:\\BT C#\\Lab1.5\\Bai2Lab15\\main.cs",
+              "RelativeToolTip": "Bai2Lab15\\main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T04:59:27.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HinhTamGiac.cs",
+              "DocumentMoniker": "D:\\BT C#\\Lab1.5\\Bai2Lab15\\HinhTamGiac.cs",
+              "RelativeDocumentMoniker": "Bai2Lab15\\HinhTamGiac.cs",
+              "ToolTip": "D:\\BT C#\\Lab1.5\\Bai2Lab15\\HinhTamGiac.cs",
+              "RelativeToolTip": "Bai2Lab15\\HinhTamGiac.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T04:59:07.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HinhChuNhat.cs",
+              "DocumentMoniker": "D:\\BT C#\\Lab1.5\\Bai2Lab15\\HinhChuNhat.cs",
+              "RelativeDocumentMoniker": "Bai2Lab15\\HinhChuNhat.cs",
+              "ToolTip": "D:\\BT C#\\Lab1.5\\Bai2Lab15\\HinhChuNhat.cs",
+              "RelativeToolTip": "Bai2Lab15\\HinhChuNhat.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA4wBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T04:58:47.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HinhVuong.cs",
+              "DocumentMoniker": "D:\\BT C#\\Lab1.5\\Bai2Lab15\\HinhVuong.cs",
+              "RelativeDocumentMoniker": "Bai2Lab15\\HinhVuong.cs",
+              "ToolTip": "D:\\BT C#\\Lab1.5\\Bai2Lab15\\HinhVuong.cs",
+              "RelativeToolTip": "Bai2Lab15\\HinhVuong.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA6wBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T04:58:23.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HinhTron.cs",
+              "DocumentMoniker": "D:\\BT C#\\Lab1.5\\Bai2Lab15\\HinhTron.cs",
+              "RelativeDocumentMoniker": "Bai2Lab15\\HinhTron.cs",
+              "ToolTip": "D:\\BT C#\\Lab1.5\\Bai2Lab15\\HinhTron.cs",
+              "RelativeToolTip": "Bai2Lab15\\HinhTron.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T04:58:01.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hinh.cs",
+              "DocumentMoniker": "D:\\BT C#\\Lab1.5\\Bai2Lab15\\Hinh.cs",
+              "RelativeDocumentMoniker": "Bai2Lab15\\Hinh.cs",
+              "ToolTip": "D:\\BT C#\\Lab1.5\\Bai2Lab15\\Hinh.cs",
+              "RelativeToolTip": "Bai2Lab15\\Hinh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T04:57:34.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BT C#\\Lab1.5\\Bai2Lab15\\Program.cs",
+              "RelativeDocumentMoniker": "Bai2Lab15\\Program.cs",
+              "ToolTip": "D:\\BT C#\\Lab1.5\\Bai2Lab15\\Program.cs",
+              "RelativeToolTip": "Bai2Lab15\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T04:56:41.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "main.cs",
+              "DocumentMoniker": "D:\\BT C#\\Lab1.5\\Bai1Lab15\\main.cs",
+              "RelativeDocumentMoniker": "Bai1Lab15\\main.cs",
+              "ToolTip": "D:\\BT C#\\Lab1.5\\Bai1Lab15\\main.cs",
+              "RelativeToolTip": "Bai1Lab15\\main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T04:54:42.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PhanSo.cs",
+              "DocumentMoniker": "D:\\BT C#\\Lab1.5\\Bai1Lab15\\PhanSo.cs",
+              "RelativeDocumentMoniker": "Bai1Lab15\\PhanSo.cs",
+              "ToolTip": "D:\\BT C#\\Lab1.5\\Bai1Lab15\\PhanSo.cs",
+              "RelativeToolTip": "Bai1Lab15\\PhanSo.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAEwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T04:54:07.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BT C#\\Lab1.5\\Bai1Lab15\\Program.cs",
+              "RelativeDocumentMoniker": "Bai1Lab15\\Program.cs",
+              "ToolTip": "D:\\BT C#\\Lab1.5\\Bai1Lab15\\Program.cs",
+              "RelativeToolTip": "Bai1Lab15\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T04:53:24.055Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
