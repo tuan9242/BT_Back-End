@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\K\u00EC 3\\Back end\\BT C#\\Lab 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DE7E49-BD22-43CE-8F60-59D02A2695AF}|Lab 4\\Lab 4.csproj|d:\\k\u00EC 3\\back end\\bt c#\\lab 4\\lab 4\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3DE7E49-BD22-43CE-8F60-59D02A2695AF}|Lab 4\\Lab 4.csproj|solutionrelative:lab 4\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DE7E49-BD22-43CE-8F60-59D02A2695AF}|Lab 4\\Lab 4.csproj|d:\\k\u00EC 3\\back end\\bt c#\\lab 4\\lab 4\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3DE7E49-BD22-43CE-8F60-59D02A2695AF}|Lab 4\\Lab 4.csproj|solutionrelative:lab 4\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DE7E49-BD22-43CE-8F60-59D02A2695AF}|Lab 4\\Lab 4.csproj|d:\\k\u00EC 3\\back end\\bt c#\\lab 4\\lab 4\\views\\user\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3DE7E49-BD22-43CE-8F60-59D02A2695AF}|Lab 4\\Lab 4.csproj|solutionrelative:lab 4\\views\\user\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DE7E49-BD22-43CE-8F60-59D02A2695AF}|Lab 4\\Lab 4.csproj|d:\\k\u00EC 3\\back end\\bt c#\\lab 4\\lab 4\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3DE7E49-BD22-43CE-8F60-59D02A2695AF}|Lab 4\\Lab 4.csproj|solutionrelative:lab 4\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DE7E49-BD22-43CE-8F60-59D02A2695AF}|Lab 4\\Lab 4.csproj|d:\\k\u00EC 3\\back end\\bt c#\\lab 4\\lab 4\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3DE7E49-BD22-43CE-8F60-59D02A2695AF}|Lab 4\\Lab 4.csproj|solutionrelative:lab 4\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3DE7E49-BD22-43CE-8F60-59D02A2695AF}|Lab 4\\Lab 4.csproj|d:\\k\u00EC 3\\back end\\bt c#\\lab 4\\lab 4\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3DE7E49-BD22-43CE-8F60-59D02A2695AF}|Lab 4\\Lab 4.csproj|solutionrelative:lab 4\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\K\u00EC 3\\Back end\\BT C#\\Lab 4\\Lab 4\\Views\\User\\Details.cshtml",
+              "RelativeDocumentMoniker": "Lab 4\\Views\\User\\Details.cshtml",
+              "ToolTip": "D:\\K\u00EC 3\\Back end\\BT C#\\Lab 4\\Lab 4\\Views\\User\\Details.cshtml",
+              "RelativeToolTip": "Lab 4\\Views\\User\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T15:31:04.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\K\u00EC 3\\Back end\\BT C#\\Lab 4\\Lab 4\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Lab 4\\Views\\User\\Edit.cshtml",
+              "ToolTip": "D:\\K\u00EC 3\\Back end\\BT C#\\Lab 4\\Lab 4\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "Lab 4\\Views\\User\\Edit.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T15:26:05.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\K\u00EC 3\\Back end\\BT C#\\Lab 4\\Lab 4\\Views\\User\\Add.cshtml",
+              "RelativeDocumentMoniker": "Lab 4\\Views\\User\\Add.cshtml",
+              "ToolTip": "D:\\K\u00EC 3\\Back end\\BT C#\\Lab 4\\Lab 4\\Views\\User\\Add.cshtml",
+              "RelativeToolTip": "Lab 4\\Views\\User\\Add.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T15:24:55.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\K\u00EC 3\\Back end\\BT C#\\Lab 4\\Lab 4\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab 4\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\K\u00EC 3\\Back end\\BT C#\\Lab 4\\Lab 4\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Lab 4\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T15:23:58.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\K\u00EC 3\\Back end\\BT C#\\Lab 4\\Lab 4\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Lab 4\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\K\u00EC 3\\Back end\\BT C#\\Lab 4\\Lab 4\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Lab 4\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowGIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:19:54.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\K\u00EC 3\\Back end\\BT C#\\Lab 4\\Lab 4\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Lab 4\\Models\\User.cs",
+              "ToolTip": "D:\\K\u00EC 3\\Back end\\BT C#\\Lab 4\\Lab 4\\Models\\User.cs",
+              "RelativeToolTip": "Lab 4\\Models\\User.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:18:21.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
