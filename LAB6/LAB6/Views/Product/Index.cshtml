@@ -1,0 +1,241 @@
+﻿@model Tuple<List<Category>, List<Brand>, List<Product>>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="row">
+    <div class="col-2">
+        <div class="accordion">
+            <div class="accordion-item">
+                <h2 class="accordion-header">
+                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseCategory" aria-expanded="true" aria-controls="collapseCategory">
+                        Category
+                    </button>
+                </h2>
+                <div id="collapseCategory" class="accordion-collapse collapse show" aria-labelledby="headingCategory">
+                    <div class="accordion-body">
+                        <div class="list-group list-group-flush">
+                            @foreach (Category category in Model.Item1)
+                            {
+                                <li class="list-group-item py-0 small" role="button" onclick="fetchProduct({category: '@category.Name'})">@category.Name</li>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+                <h2 class="accordion-header">
+                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseBrand" aria-expanded="true" aria-controls="collapseBrand">
+                        Brand
+                    </button>
+                </h2>
+                <div id="collapseBrand" class="accordion-collapse collapse show" aria-labelledby="headingBrand">
+                    <div class="accordion-body">
+                        <div>
+                            @foreach (Brand brand in Model.Item2)
+                            {
+                                <div class="form-check">
+                                    <input class="form-check-input brand-checkbox" type="checkbox" value="@brand.Name" onchange="filterBrands()" />
+                                    <label class="form-check-label" for="brandChecked@(brand.Id)">@brand.Name</label>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+                <h2 class="accordion-header">
+                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapsePrice" aria-expanded="true" aria-controls="collapsePrice">
+                        Price Range
+                    </button>
+                </h2>
+                <div id="collapsePrice" class="accordion-collapse collapse show" aria-labelledby="headingPrice">
+                    <div class="accordion-body">
+                        <div class="d-flex">
+                            <div class="form-group col-md-6 px-1">
+                                <label>Min</label>
+                                <input id="minPrice" class="form-control" placeholder="$0" type="number">
+                            </div>
+                            <div class="form-group text-right col-md-6 px-1">
+                                <label>Max</label>
+                                <input id="maxPrice" class="form-control" placeholder="$10000" type="number">
+                            </div>
+                        </div>
+                        <button class="btn btn-primary col-12 mt-3" onclick="filterByPrice()">Apply</button>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+                <h2 class="accordion-header">
+                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseShipping" aria-expanded="true" aria-controls="collapseShipping">
+                        Shipping
+                    </button>
+                </h2>
+                <div id="collapseShipping" class="accordion-collapse collapse show" aria-labelledby="headingShipping">
+                    <div class="accordion-body">
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="freeShippingCheck" onchange="filterShipping()">
+                            <label class="form-check-label" for="freeShippingCheck">
+                                Free Shipping Only
+                            </label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-10">
+        <div class="border-bottom d-flex justify-content-between pb-3">
+            <h4 id="count-product" class="m-0">@Model.Item3.Count Items found</h4>
+            <div class="d-flex" role="search">
+                <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" id="search-input">
+                <button class="btn btn-success" type="submit" onclick="search()">Search</button>
+            </div>
+        </div>
+        <div class="row mt-3" id="list-product">
+            @foreach (Product product in Model.Item3)
+            {
+                <div class="col-md-3 mb-3">
+                    <div class="card">
+                        <img src="@product.ImageUrl" class="img-fluid rounded" alt="@product.Name" />
+                        <div class="card-body">
+                            <h6>@product.Name</h6>
+                            <div class="d-flex flex-row align-items-center mb-1">
+                                <h4 class="mb-1 me-1">$@product.SalePrice</h4>
+                                <span class="text-danger"><s>$@product.OriginalPrice</s></span>
+                            </div>
+                            <h6 class="@(product.IsFreeShipping ? "text-success" : "text-danger")">
+                                @(product.IsFreeShipping ? "Free" : "Paid") shipping
+                            </h6>
+                            <div>
+                                <button class="btn btn-primary shadow-0" type="button">Buy this</button>
+                                <a href="#!" class="btn btn-light border px-2 pt-2 icon-hover">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-heart" viewBox="0 0 16 16">
+                                        <path d="m8 2.748-.717-.737C5.6.281 2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01zM8 15C-7.333 4.868 3.279-3.04 7.824 1.143q.09.083.176.171a3 3 0 0 1 .176-.17C12.72-3.042 23.333 4.867 8 15" />
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+        <nav aria-label="Page navigation" class="mt-4">
+            <ul class="pagination justify-content-center" id="pagination">
+                @for (int i = 1; i <= ViewBag.TotalPages; i++)
+                {
+                    <li class="page-item @(i == ViewBag.CurrentPage ? "active" : "")">
+                        <a class="page-link" href="#" onclick="changePage(@i)">@i</a>
+                    </li>
+                }
+            </ul>
+        </nav>
+    </div>
+</div>
+
+<script>
+    let currentFilters = {};
+    let currentPage = 1;
+    const pageSize = 8;
+
+    function fetchProduct(filters, page = 1) {
+        currentFilters = {...currentFilters, ...filters};
+        currentPage = page;
+
+        var apiUrl = `@Url.Content("~/")Product/Filters?`;
+        for (const key in currentFilters) {
+            if (currentFilters[key] !== undefined && currentFilters[key] !== null && currentFilters[key] !== '') {
+                apiUrl += `${key}=${encodeURIComponent(currentFilters[key])}&`;
+            }
+        }
+        apiUrl += `page=${currentPage}&pageSize=${pageSize}`;
+
+        fetch(apiUrl)
+            .then((response) => {
+                return response.json();
+            })
+            .then((data) => {
+                let listProduct = document.getElementById("list-product");
+                let content = "";
+                data.products.forEach(product => {
+                    content += `
+                    <div class="col-md-3 mb-3">
+                        <div class="card">
+                            <img src="${product.imageUrl}" class="img-fluid rounded" alt="${product.name}" />
+                            <div class="card-body">
+                                <h6>${product.name}</h6>
+                                <div class="d-flex flex-row align-items-center mb-1">
+                                    <h4 class="mb-1 me-1">$${product.salePrice}</h4>
+                                    <span class="text-danger"><s>$${product.originalPrice}</s></span>
+                                </div>
+                                <h6 class="${product.isFreeShipping ? 'text-success' : 'text-danger'}">
+                                    ${product.isFreeShipping ? 'Free' : 'Paid'} shipping
+                                </h6>
+                                <div>
+                                    <button class="btn btn-primary shadow-0" type="button">Buy this</button>
+                                    <a href="#!" class="btn btn-light border px-2 pt-2 icon-hover">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-heart" viewBox="0 0 16 16">
+                                            <path d="m8 2.748-.717-.737C5.6.281 2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01zM8 15C-7.333 4.868 3.279-3.04 7.824 1.143q.09.083.176.171a3 3 0 0 1 .176-.17C12.72-3.042 23.333 4.867 8 15" />
+                                        </svg>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    `;
+                });
+
+                document.getElementById("count-product").innerHTML = `${data.totalCount} Items found`;
+                listProduct.innerHTML = content;
+
+                // Update pagination
+                let pagination = document.getElementById("pagination");
+                pagination.innerHTML = '';
+
+                for (let i = 1; i <= data.totalPages; i++) {
+                    pagination.innerHTML += `
+                        <li class="page-item ${i === currentPage ? 'active' : ''}">
+                            <a class="page-link" href="#" onclick="changePage(${i})">${i}</a>
+                        </li>
+                    `;
+                }
+            })
+            .catch((error) => {
+                console.log(error)
+            });
+    }
+
+    function search() {
+        let searchValue = document.getElementById("search-input").value;
+        fetchProduct({searchValue: searchValue});
+    }
+
+    function filterBrands() {
+        let selectedBrands = [];
+        document.querySelectorAll(".brand-checkbox").forEach((checkbox) => {
+            if (checkbox.checked) {
+                selectedBrands.push(checkbox.value);
+            }
+        });
+        fetchProduct({brands: selectedBrands.join(',')});
+    }
+
+    function filterByPrice() {
+        let minPrice = document.getElementById("minPrice").value;
+        let maxPrice = document.getElementById("maxPrice").value;
+
+        fetchProduct({
+            minPrice: minPrice ? parseFloat(minPrice) : null,
+            maxPrice: maxPrice ? parseFloat(maxPrice) : null
+        });
+    }
+
+    function filterShipping() {
+        let freeShipping = document.getElementById("freeShippingCheck").checked;
+        fetchProduct({freeShipping: freeShipping});
+    }
+
+    function changePage(page) {
+        fetchProduct({}, page);
+    }
+</script>
